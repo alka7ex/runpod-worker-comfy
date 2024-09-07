@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.15.0...1.16.0) (2024-09-07)
+
+
+### Features
+
+* remove semantic check ([00bef72](https://github.com/alka7ex/runpod-worker-comfy/commit/00bef72a8049e4133ce3851e6e50a1979770e7e3))
+
 # [1.15.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.14.0...1.15.0) (2024-09-07)
 
 
