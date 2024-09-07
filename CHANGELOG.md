@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.18.0...1.19.0) (2024-09-07)
+
+
+### Features
+
+* fixing tag ([b8a4d23](https://github.com/alka7ex/runpod-worker-comfy/commit/b8a4d23b857e11e883405a66a635ea04fef34282))
+
 # [1.18.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.17.0...1.18.0) (2024-09-07)
 
 
