@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.10.0...1.11.0) (2024-09-07)
+
+
+### Features
+
+* fixing docker bake ([a3ef345](https://github.com/alka7ex/runpod-worker-comfy/commit/a3ef3458c9798440d2b2da20eaee51928d9ad453))
+
 # [1.10.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.9.0...1.10.0) (2024-09-07)
 
 
