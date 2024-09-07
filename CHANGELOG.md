@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.16.0...1.17.0) (2024-09-07)
+
+
+### Features
+
+* release version fix ([8af992b](https://github.com/alka7ex/runpod-worker-comfy/commit/8af992bccea3344e0b0c7e29282a77b4320e4dcf))
+
 # [1.16.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.15.0...1.16.0) (2024-09-07)
 
 
