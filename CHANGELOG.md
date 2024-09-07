@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.19.0...1.20.0) (2024-09-07)
+
+
+### Features
+
+* removing descriptions ([66345af](https://github.com/alka7ex/runpod-worker-comfy/commit/66345af23571045759e89cc2bcaebddfc6939188))
+
 # [1.19.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.18.0...1.19.0) (2024-09-07)
 
 
