@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.12.0...1.13.0) (2024-09-07)
+
+
+### Features
+
+* trying to remove the sd_xl_base ([ef86c17](https://github.com/alka7ex/runpod-worker-comfy/commit/ef86c174683c71ea254eae393f4e0aba096b06ed))
+
 # [1.12.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.11.0...1.12.0) (2024-09-07)
 
 
