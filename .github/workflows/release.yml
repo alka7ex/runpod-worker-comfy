@@ -75,9 +75,3 @@ jobs:
             *.args.GHCR_IMG=${{ env.GHCR_IMG }}
             *.args.HUGGINGFACE_ACCESS_TOKEN=${{ env.HUGGINGFACE_ACCESS_TOKEN }}
             *.tags=${{ env.GHCR_REPO }}/${{ env.GHCR_IMG }}:latest
-      - name: Update description on Docker Hub
-        uses: peter-evans/dockerhub-description@v3
-        with:
-          username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: ${{ env.DOCKERHUB_REPO }}/${{ env.DOCKERHUB_IMG }}
