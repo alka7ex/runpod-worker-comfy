@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.7.0...1.8.0) (2024-09-07)
+
+
+### Features
+
+* fixing dockerfile 4 ([083fb59](https://github.com/alka7ex/runpod-worker-comfy/commit/083fb59d2903aef373bf8421401ad45e6edd0e4d))
+
 # [1.7.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.6.0...1.7.0) (2024-09-07)
 
 
