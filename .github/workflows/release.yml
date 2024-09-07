@@ -8,7 +8,7 @@ on:
 
 jobs:
   release:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest-xl
     if: always()
     permissions:
       contents: write # to be able to publish a GitHub release
