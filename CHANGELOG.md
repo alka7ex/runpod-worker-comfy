@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.17.0...1.18.0) (2024-09-07)
+
+
+### Features
+
+* change to ghcr.io ([87e9e5d](https://github.com/alka7ex/runpod-worker-comfy/commit/87e9e5d464bc3d69fce11117ad1ebc5f53cdace1))
+
 # [1.17.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.16.0...1.17.0) (2024-09-07)
 
 
