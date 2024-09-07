@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.9.0...1.10.0) (2024-09-07)
+
+
+### Features
+
+* removing other model first ([134ac54](https://github.com/alka7ex/runpod-worker-comfy/commit/134ac54c9704b0aa60e8dd9b5f50abd0395c1dd7))
+
 # [1.9.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.8.0...1.9.0) (2024-09-07)
 
 
