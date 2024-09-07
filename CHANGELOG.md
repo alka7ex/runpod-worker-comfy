@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.13.0...1.14.0) (2024-09-07)
+
+
+### Features
+
+* testing without downloading anything for now ([8919e2c](https://github.com/alka7ex/runpod-worker-comfy/commit/8919e2c3635db1f979bc48a8480cdb09b75c2062))
+
 # [1.13.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.12.0...1.13.0) (2024-09-07)
 
 
