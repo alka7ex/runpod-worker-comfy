@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.8.0...1.9.0) (2024-09-07)
+
+
+### Features
+
+* fixing dockerfile 5 testing without access token huggingface ([0832d34](https://github.com/alka7ex/runpod-worker-comfy/commit/0832d34b45df019e53cb79df16b310340086da40))
+
 # [1.8.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.7.0...1.8.0) (2024-09-07)
 
 
