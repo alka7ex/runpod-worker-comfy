@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.11.0...1.12.0) (2024-09-07)
+
+
+### Features
+
+* empty commit ([e0afbf5](https://github.com/alka7ex/runpod-worker-comfy/commit/e0afbf50ff7173c11f8a096a69c1d5055a7d98cd))
+
 # [1.11.0](https://github.com/alka7ex/runpod-worker-comfy/compare/1.10.0...1.11.0) (2024-09-07)
 
 
