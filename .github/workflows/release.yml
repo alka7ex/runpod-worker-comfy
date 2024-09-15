@@ -8,7 +8,7 @@ on:
 
 jobs:
   release:
-    runs-on: ubuntu-latest-xl
+    runs-on: ubuntu-latest
     if: always()
     permissions:
       contents: write # to be able to publish a GitHub release
@@ -35,8 +35,6 @@ jobs:
           rm -rf /opt/ghc
           rm -rf "/usr/local/share/boost"
           rm -rf "$AGENT_TOOLSDIRECTORY"
-          sudo apt-get clean
-          docker system prune -af
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
